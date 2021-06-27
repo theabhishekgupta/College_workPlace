@@ -1,5 +1,5 @@
-                  <h1>Practical Assignments</h1>
-                 Object Oriented Methodology & C++
+                                            Practical Assignments
+                                       Object Oriented Methodology & C++
 
 1. Write a program that defines an inline function containing two arguments first is for
 salary of an employee and second is the percent value by which salary is to be
